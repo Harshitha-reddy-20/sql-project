@@ -1,3 +1,5 @@
+/*View*/
+
 Create view Order_view as
 select
     u.username,
