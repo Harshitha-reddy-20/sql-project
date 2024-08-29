@@ -1,4 +1,6 @@
 
+/*Inserting values*/
+
 -- Users table
 insert into users values(1,"Divya","divyabharathi392@gmail.com","2022-05-18");
 insert into users values(2,"Swathi","swathips20@gmail.com","2020-11-04");
