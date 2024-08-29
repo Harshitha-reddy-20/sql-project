@@ -1,3 +1,5 @@
+/*Online Shopping*/
+
 create database project; 
 use project;
 create table Users(user_id int primary key,username varchar(50)not null,email varchar(100)not null,created_at date not null); 
